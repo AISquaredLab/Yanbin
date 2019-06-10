@@ -4,7 +4,7 @@ Yanbin will maintain this directory for his info
 ## Currently Doing
 1. Read papers
 2. 阅读机器学习
-3. 搭建GAN for stock prediction
+3. 搭建GAN for stock prediction (尝试学写pytorch)
 4. Read Measure Theory (slow)
 
 
