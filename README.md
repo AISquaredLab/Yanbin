@@ -2,10 +2,10 @@
 Yanbin will maintain this directory for his info
 
 ## Currently Doing
-1. read papers
+1. Read papers
 2. 阅读机器学习
 3. 搭建GAN for stock prediction
-
+4. Read Measure Theory (slow)
 
 
 ## Previouly Doing
@@ -23,7 +23,10 @@ Yanbin will maintain this directory for his info
 2. NIPS 2016 Tutorial: Generative Adversarial Networks https://arxiv.org/abs/1701.00160
 
 
-
+## Current Problem
+1. Go too slow in measure theory
+2. When building the stock, cannot generate a balanced GAN
+3. Cannot understand https://arxiv.org/abs/1710.05488 at all...qwq
 
 Refrence
 Optimal transport theory
